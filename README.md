@@ -16,4 +16,5 @@ Incomplete, coming soon.
 
 - [ ] Create a docker-based build to build the AVR code
 - [ ] Build releases for Linux (x32/x64), OSX (Intel/ARM), Windows (if possible)
+- [ ] Allow programming a serial number into the EEPROM
 
